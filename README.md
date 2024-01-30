@@ -52,7 +52,7 @@ The project also answered important questions such as :-
   <img width="400" height="200" src="age group.png"></p>
 6. Amazon, Flipkart and Myntra channels were the top contributors.
 <p align="center">
-  <img width="400" height="200" src="type.png"></p>
+  <img width="400" height="200" src="New folder/type.png"></p>
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 <p align="center">
   <img width="400" height="200" src="New folder/channel.png"></p>

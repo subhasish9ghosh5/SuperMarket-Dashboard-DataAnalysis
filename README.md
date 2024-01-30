@@ -3,7 +3,7 @@
 Description : 
 The "Supermarket Sales Analysis" project was initiated with the aim of providing actionable insights to aid the store in crafting an annual sales report, understanding customer behavior, and ultimately boosting sales figures. Through a multifaceted approach encompassing data comprehension, thorough data cleaning, intricate data processing, detailed analysis, compelling visualization, and the creation of a comprehensive report, we delved deep into the intricacies of the supermarket's sales data.
 
-At the outset, we embarked on a journey to unravel the nuances of the dataset, meticulously ensuring its integrity through rigorous data cleaning procedures. Subsequently, employing advanced data processing techniques, we transformed the raw data into a structured format conducive to thorough analysis.
+At the outset, i embarked on a journey to unravel the nuances of the dataset, meticulously ensuring its integrity through rigorous data cleaning procedures. Subsequently, employing advanced data processing techniques, we transformed the raw data into a structured format conducive to thorough analysis.
 
 my analysis spanned a multitude of dimensions, ranging from dissecting sales trends over various timeframes to dissecting product performance and even segmenting customers based on demographic attributes and purchasing habits. Moreover, we unearthed compelling correlations between diverse variables that exerted influence on sales dynamics.
 

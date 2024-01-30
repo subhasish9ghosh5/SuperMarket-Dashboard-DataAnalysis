@@ -49,7 +49,7 @@ The project also answered important questions such as :-
   <img width="400" height="200" src="New folder/state vs ship rate.png"></p>
 5.  The adult age group (30-49 yrs) made the most contributions.
 <p align="center">
-  <img width="400" height="200" src="age group.png"></p>
+  <img width="400" height="200" src="New folder/age group.png"></p>
 6. Amazon, Flipkart and Myntra channels were the top contributors.
 <p align="center">
   <img width="400" height="200" src="New folder/type.png"></p>

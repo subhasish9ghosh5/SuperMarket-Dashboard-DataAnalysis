@@ -55,7 +55,7 @@ The project also answered important questions such as :-
   <img width="400" height="200" src="type.png"></p>
 7. The 'Set' clothing category received the highest number of orders, comprising 40% of the total.
 <p align="center">
-  <img width="400" height="200" src="channel.png"></p>
+  <img width="400" height="200" src="New folder/channel.png"></p>
 Final Conclusion
 -
 my analysis suggests a strategic approach to bolstering store sales by targeting a specific demographic segment: women aged between 30 to 49 years residing in the states of Maharashtra, Karnataka, and Uttar Pradesh. Leveraging insights gleaned from our data exploration, we propose a focused marketing campaign aimed at capturing the attention of this demographic cohort.
